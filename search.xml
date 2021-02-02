@@ -14,10 +14,17 @@
 <h3 id="中国区官网游戏便当"><a href="#中国区官网游戏便当" class="headerlink" title="中国区官网游戏便当"></a>中国区官网游戏便当</h3><p>作品链接：<a href="https://www.youxibd.com/v2/gamejam/ggj2021/works/847">https://www.youxibd.com/v2/gamejam/ggj2021/works/847</a></p>
 <h3 id="百度网盘下载链接"><a href="#百度网盘下载链接" class="headerlink" title="百度网盘下载链接"></a>百度网盘下载链接</h3><p>链接: <a href="https://pan.baidu.com/s/13pxQJO32mgimMM-x1GFYlg">https://pan.baidu.com/s/13pxQJO32mgimMM-x1GFYlg</a> 提取码: sgk5 </p>
 <h3 id="Bilibili视频演示"><a href="#Bilibili视频演示" class="headerlink" title="Bilibili视频演示"></a>Bilibili视频演示</h3><p>链接：<a href="https://www.bilibili.com/video/BV1yv411s7qZ">https://www.bilibili.com/video/BV1yv411s7qZ</a></p>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=246385303&bvid=BV1yv411s7qZ&cid=290995933&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=246385303&amp;bvid=BV1yv411s7qZ&amp;cid=290995933&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
+<p>通关证明：<br><img src="/images/ggjtongguan.jpg"></p>
 <p>May you be treated gently by the world,<br>Shengzhe Qin（秦圣喆）</p>
 ]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>游戏开发</tag>
+      </tags>
   </entry>
   <entry>
     <title>关于FPS游戏中平衡攻防双方的思考</title>
@@ -30,9 +37,22 @@
 <h2 id="为什么通常CT离包点近，可以提前架枪但是T还能打进包点？"><a href="#为什么通常CT离包点近，可以提前架枪但是T还能打进包点？" class="headerlink" title="为什么通常CT离包点近，可以提前架枪但是T还能打进包点？"></a>为什么通常CT离包点近，可以提前架枪但是T还能打进包点？</h2><h3 id="人数平衡："><a href="#人数平衡：" class="headerlink" title="人数平衡："></a>人数平衡：</h3><p>  首先我认为，在大多数FPS游戏中，都不止设有一个包点，以此来使常规战术中，CT需要向不同包点分配不同人数进行防守，而T可以集中火力主攻一个点，造成人数优势。</p>
 <h3 id="枪械平衡："><a href="#枪械平衡：" class="headerlink" title="枪械平衡："></a>枪械平衡：</h3><p>  以反恐精英举例，我们宏观认为CT v T在枪械上为 M4 v AK，因为CT有着枪位优势，所以给T枪械优势进行平衡。</p>
 <h3 id="战术平衡："><a href="#战术平衡：" class="headerlink" title="战术平衡："></a>战术平衡：</h3><p>  通常来说，CT可以优先布局战术，但是如同石头剪刀布一样，T可以后出，所以在战术上更加灵活，通过转火，吸引等方式可以造成局部资源优势。也是一种心理博弈，因为在爆破图中，去哪个点下包的主动权掌握在T手中。</p>
-<p>综上所述，CT拥有提前布局，占据枪位的优势，但是在设计上通过人数，枪械，战术甚至某些地图的设计，可以平衡双方的资源差距。</p>
+<h3 id="道具平衡："><a href="#道具平衡：" class="headerlink" title="道具平衡："></a>道具平衡：</h3><p>  在常规情况下，防守方的道具多用作拖延进攻节奏，减少进攻战术路线选择使用。而进攻方方在进攻时道具可以进行主动清点，压缩防守位置，甚至运气好的时候雷喂嘴里可以直接减员（当攻守互换时同理）</p>
+<h3 id="经济平衡："><a href="#经济平衡：" class="headerlink" title="经济平衡："></a>经济平衡：</h3><p>  以反恐精英举例，T的枪械优势大，核心武器更加便宜，减少试错成本，以平衡攻守优势</p>
+<h3 id="地图平衡："><a href="#地图平衡：" class="headerlink" title="地图平衡："></a>地图平衡：</h3><p>  在多数地图设计中，防守方通常需要防守两条以上路线，例如Dust2中A点，防守方需要同时看A大，A小，mid，如果需要一个队员同时看两个以上点位，防守位置就会被压缩，增大进攻方协同的收益，并且当防守点位被压缩之后，更容易吃道具和被打提前枪。</p>
+<p>  通常情况下射击游戏的地图平衡，可以简化为八字箱逻辑，即八字箱上方玩家拥有更好的视野，更好的掩体，但是有限的活动空间。下方玩家拥有更多的射击位置，更容易掌握的预瞄点位，但是相对较差的视野范围和在有其他玩家参与的时候有更大的受击角度和风险。</p>
+<p>  这里我用COD系列的经典地图坠机之地举例。<br>  <img src="/images/zhuijizhidi.png"><br>可以看到在垃圾箱位，可以同时防守整个中路，拥有极佳的视野，以及半个身位的掩体（半个身子在绿线下）。<br>但是相对的，可以被更多的地方攻击（所有红圈画出的点位都可以打到这里）。</p>
+<p>同理在大逃杀类游戏中，先进入房区的玩家，拥有更好的防守掩体，更大的防守视野，但是防守点位相对固定，进攻玩家需要关注的点位有限。但是当进攻玩家享受更大的进攻活动空间，进攻路线的同时，也更容易遭到其他玩家的攻击。</p>
+<p>这就是地图设计中攻守双方的博弈，也是游戏的魅力，竞技的魅力</p>
+<p>综上所述，CT拥有提前布局，占据枪位的优势，但是在设计上通过人数，枪械，战术，经济甚至某些地图的设计，可以平衡双方的资源差距。</p>
 <p>May you be treated gently by the world,<br>Shengzhe Qin（秦圣喆）</p>
 ]]></content>
+      <categories>
+        <category>思考</category>
+      </categories>
+      <tags>
+        <tag>随想</tag>
+      </tags>
   </entry>
   <entry>
     <title>Cosplay记录</title>
@@ -44,18 +64,24 @@
 <h3 id="半次元新人榜第一"><a href="#半次元新人榜第一" class="headerlink" title="半次元新人榜第一"></a>半次元新人榜第一</h3><p><img src="/images/banciyuan.jpeg"></p>
 <h2 id="场照"><a href="#场照" class="headerlink" title="场照"></a>场照</h2><p><img src="/images/changzhao1.jpeg"><br><img src="/images/changzhao2.jpeg"><br><img src="/images/changzhao3.jpeg"><br><img src="/images/changzhao4.jpeg"><br><img src="/images/changzhao5.jpeg"><br><img src="/images/changzhao6.jpeg"><br><img src="/images/changzhao7.jpeg"></p>
 ]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>经历</tag>
+      </tags>
   </entry>
   <entry>
     <title>游戏经历</title>
     <url>/2021/02/01/%E6%B8%B8%E6%88%8F%E7%BB%8F%E5%8E%86/</url>
     <content><![CDATA[<p>本文只用于记录一个热爱游戏的憨憨的游戏经历(๑•̀ㅂ•́)و✧<br>（多图慎入=。=）</p>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=5247334&bvid=BV1Js411y7Zk&cid=8528172&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=5247334&amp;bvid=BV1Js411y7Zk&amp;cid=8528172&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 <a id="more"></a>
 
 <p>本文所有内容仅代表本人在获得成绩那一刻的水平，<br>不代表如今竞技水平（说白了就是现在太菜了=。=）</p>
 <h2 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h2><h3 id="1月使命召唤手游QV双区战神"><a href="#1月使命召唤手游QV双区战神" class="headerlink" title="1月使命召唤手游QV双区战神"></a>1月使命召唤手游QV双区战神</h3><p><img src="/images/zhanshen1.jpeg"> <img src="/images/zhanshen2.jpeg"></p>
-<h2 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h2><h3 id="守望先锋北美Open-Devision小组第二-疫情停办"><a href="#守望先锋北美Open-Devision小组第二-疫情停办" class="headerlink" title="守望先锋北美Open Devision小组第二(疫情停办)"></a>守望先锋北美Open Devision小组第二(疫情停办)</h3><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=92589824&bvid=BV1VE411J77H&cid=158087828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<h2 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h2><h3 id="守望先锋北美Open-Devision小组第二-疫情停办"><a href="#守望先锋北美Open-Devision小组第二-疫情停办" class="headerlink" title="守望先锋北美Open Devision小组第二(疫情停办)"></a>守望先锋北美Open Devision小组第二(疫情停办)</h3><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=92589824&amp;bvid=BV1VE411J77H&amp;cid=158087828&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 <h3 id="7月任天堂明星大乱斗西安1up线下赛冠军"><a href="#7月任天堂明星大乱斗西安1up线下赛冠军" class="headerlink" title="7月任天堂明星大乱斗西安1up线下赛冠军"></a>7月任天堂明星大乱斗西安1up线下赛冠军</h3><p><img src="/images/1up.jpeg"></p>
 <h2 id="2018年"><a href="#2018年" class="headerlink" title="2018年"></a>2018年</h2><h3 id="6月绝地求生陕西绿树杯线下冠军"><a href="#6月绝地求生陕西绿树杯线下冠军" class="headerlink" title="6月绝地求生陕西绿树杯线下冠军"></a>6月绝地求生陕西绿树杯线下冠军</h3><p><img src="/images/lvshu.png"></p>
@@ -73,6 +99,12 @@
 <h3 id="6月反恐精英Online2-EGL西安线下亚军"><a href="#6月反恐精英Online2-EGL西安线下亚军" class="headerlink" title="6月反恐精英Online2 EGL西安线下亚军"></a>6月反恐精英Online2 EGL西安线下亚军</h3><p><img src="/images/egl.jpeg"></p>
 <h3 id="5月使命召唤Online全国锦标赛西安线下赛冠军"><a href="#5月使命召唤Online全国锦标赛西安线下赛冠军" class="headerlink" title="5月使命召唤Online全国锦标赛西安线下赛冠军"></a>5月使命召唤Online全国锦标赛西安线下赛冠军</h3><p><img src="/images/codol1.jpeg"><br>相关报道：<a href="http://www.58game.com/special/2015/interview_tanke/index.html">http://www.58game.com/special/2015/interview_tanke/index.html</a></p>
 ]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>经历</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World?</title>
@@ -85,7 +117,13 @@
 <h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>其实任何一个伟大的事物诞生，都可能只是一个巧合，就像hello world，或许只是动画片里的一句话罢了<br>但是这个语句对于计算机语言的意义，不亚于罗布泊的那一朵蘑菇云或者1970年的那一首东方红</p>
 <p>仔细想想，这句话好像我们刚出生对这个世界打的招呼，代表了最纯粹，最简单的向往和探索<br>代表了一个生命的开始和初心，从这一步起，我们才有了探索无穷奥秘的开始</p>
 <p>May you be treated gently by the world,<br>Shengzhe Qin（秦圣喆）</p>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=83594799&bvid=BV1NJ411n7Hm&cid=143007805&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=83594799&amp;bvid=BV1NJ411n7Hm&amp;cid=143007805&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 ]]></content>
+      <categories>
+        <category>记录</category>
+      </categories>
+      <tags>
+        <tag>随想</tag>
+      </tags>
   </entry>
 </search>
