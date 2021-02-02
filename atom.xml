@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小舒克的驾驶室</title>
+  
+  <subtitle>一个热爱游戏并想要进入行业内发光发热的憨憨</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-01T21:26:25.572Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Shengzhe Qin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于FPS游戏中平衡攻防双方的思考</title>
+    <link href="http://example.com/2021/02/01/%E5%85%B3%E4%BA%8EFPS%E6%B8%B8%E6%88%8F%E4%B8%AD%E5%B9%B3%E8%A1%A1%E6%94%BB%E9%98%B2%E5%8F%8C%E6%96%B9%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://example.com/2021/02/01/%E5%85%B3%E4%BA%8EFPS%E6%B8%B8%E6%88%8F%E4%B8%AD%E5%B9%B3%E8%A1%A1%E6%94%BB%E9%98%B2%E5%8F%8C%E6%96%B9%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2021-02-01T20:22:42.000Z</published>
+    <updated>2021-02-01T21:26:25.572Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;为什么通常CT离包点近，可以提前架枪但是T还能打进包点？&lt;br&gt;&lt;img src=&quot;/images/dust2.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cosplay记录</title>
+    <link href="http://example.com/2021/02/01/Cosplay%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2021/02/01/Cosplay%E8%AE%B0%E5%BD%95/</id>
+    <published>2021-02-01T19:56:00.000Z</published>
+    <updated>2021-02-01T20:07:13.023Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文记录2020年夏天初次接触Cosplay并cos火拳艾斯的经历&lt;br&gt;（多图慎入）&lt;br&gt;&lt;img src=&quot;/images/cosfengmian.jpeg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游戏经历</title>
+    <link href="http://example.com/2021/02/01/%E6%B8%B8%E6%88%8F%E7%BB%8F%E5%8E%86/"/>
+    <id>http://example.com/2021/02/01/%E6%B8%B8%E6%88%8F%E7%BB%8F%E5%8E%86/</id>
+    <published>2021-02-01T19:15:15.000Z</published>
+    <updated>2021-02-01T21:25:14.279Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文只用于记录一个热爱游戏的憨憨的游戏经历(๑•̀ㅂ•́)و✧&lt;br&gt;（多图慎入=。=）&lt;/p&gt;
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=5247334&amp;bvid=BV1Js411y7Zk&amp;cid=8528172&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot;&gt; &lt;/iframe&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2021 Global Game Jam 全球48小时极限游戏开发</title>
+    <link href="http://example.com/2021/02/01/2021-Global-Game-Jam-%E5%85%A8%E7%90%8348%E5%B0%8F%E6%97%B6%E6%9E%81%E9%99%90%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
+    <id>http://example.com/2021/02/01/2021-Global-Game-Jam-%E5%85%A8%E7%90%8348%E5%B0%8F%E6%97%B6%E6%9E%81%E9%99%90%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</id>
+    <published>2021-02-01T18:55:14.000Z</published>
+    <updated>2021-02-02T01:29:24.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/forget.png&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;作品名称：forget&quot;&gt;&lt;a href=&quot;#作品名称：forget&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World?</title>
+    <link href="http://example.com/2021/02/01/Hello-World-0/"/>
+    <id>http://example.com/2021/02/01/Hello-World-0/</id>
+    <published>2021-02-01T18:07:43.000Z</published>
+    <updated>2021-02-01T21:26:23.245Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文所有内容仅代表本人在本文发表那一时间点的主观看法，&lt;br&gt;想法如有雷同算我抄您，如有不同您说的对！&lt;/p&gt;
+&lt;p&gt;#include &amp;lt;stdio.h&amp;gt;&lt;br&gt;int main()&lt;br&gt;{&lt;br&gt;   printf(“Hello,</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

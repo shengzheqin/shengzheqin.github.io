@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>2021 Global Game Jam 全球48小时极限游戏开发</title>
+    <url>/2021/02/01/2021-Global-Game-Jam-%E5%85%A8%E7%90%8348%E5%B0%8F%E6%97%B6%E6%9E%81%E9%99%90%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</url>
+    <content><![CDATA[<p><img src="/images/forget.png"></p>
+<h2 id="作品名称：forget"><a href="#作品名称：forget" class="headerlink" title="作品名称：forget"></a>作品名称：forget</h2><h3 id="作品介绍"><a href="#作品介绍" class="headerlink" title="作品介绍"></a>作品介绍</h3><p>名为奥伦的老人要将那盆重要的花送到某个地方，为此他需要借助时间回溯的力量来通过重重障碍抵达目的地。</p>
+<h3 id="队伍："><a href="#队伍：" class="headerlink" title="队伍："></a>队伍：</h3><p>一支精致（嗨到不行）的小团队：毛线球</p>
+<p>队长：星露谷钛金级摸猪校尉，美术：RPG爱好者610</p>
+<p>主程：JN，程序：Die蕨类，kilora</p>
+<p>关卡策划：kilora，剧情策划：十一，策划：好好学习小舒克</p>
+<p>音乐：季大师</p>
+<p>后期：季大师，好好学习小舒克</p>
+<h3 id="中国区官网游戏便当"><a href="#中国区官网游戏便当" class="headerlink" title="中国区官网游戏便当"></a>中国区官网游戏便当</h3><p>作品链接：<a href="https://www.youxibd.com/v2/gamejam/ggj2021/works/847">https://www.youxibd.com/v2/gamejam/ggj2021/works/847</a></p>
+<h3 id="百度网盘下载链接"><a href="#百度网盘下载链接" class="headerlink" title="百度网盘下载链接"></a>百度网盘下载链接</h3><p>链接: <a href="https://pan.baidu.com/s/13pxQJO32mgimMM-x1GFYlg">https://pan.baidu.com/s/13pxQJO32mgimMM-x1GFYlg</a> 提取码: sgk5 </p>
+<h3 id="Bilibili视频演示"><a href="#Bilibili视频演示" class="headerlink" title="Bilibili视频演示"></a>Bilibili视频演示</h3><p>链接：<a href="https://www.bilibili.com/video/BV1yv411s7qZ">https://www.bilibili.com/video/BV1yv411s7qZ</a></p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=246385303&bvid=BV1yv411s7qZ&cid=290995933&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+
+<p>May you be treated gently by the world,<br>Shengzhe Qin（秦圣喆）</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>关于FPS游戏中平衡攻防双方的思考</title>
+    <url>/2021/02/01/%E5%85%B3%E4%BA%8EFPS%E6%B8%B8%E6%88%8F%E4%B8%AD%E5%B9%B3%E8%A1%A1%E6%94%BB%E9%98%B2%E5%8F%8C%E6%96%B9%E7%9A%84%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<p>为什么通常CT离包点近，可以提前架枪但是T还能打进包点？<br><img src="/images/dust2.jpg"></p>
+<a id="more"></a>
+
+<p>本文所有内容仅代表本人在本文发表那一时间点的主观看法，<br>想法如有雷同算我抄您，如有不同您说的对！</p>
+<p>以下所有内容都在双方竞技水平，网络延迟，机器配置在同一水平线的情况下考虑</p>
+<h2 id="为什么通常CT离包点近，可以提前架枪但是T还能打进包点？"><a href="#为什么通常CT离包点近，可以提前架枪但是T还能打进包点？" class="headerlink" title="为什么通常CT离包点近，可以提前架枪但是T还能打进包点？"></a>为什么通常CT离包点近，可以提前架枪但是T还能打进包点？</h2><h3 id="人数平衡："><a href="#人数平衡：" class="headerlink" title="人数平衡："></a>人数平衡：</h3><p>  首先我认为，在大多数FPS游戏中，都不止设有一个包点，以此来使常规战术中，CT需要向不同包点分配不同人数进行防守，而T可以集中火力主攻一个点，造成人数优势。</p>
+<h3 id="枪械平衡："><a href="#枪械平衡：" class="headerlink" title="枪械平衡："></a>枪械平衡：</h3><p>  以反恐精英举例，我们宏观认为CT v T在枪械上为 M4 v AK，因为CT有着枪位优势，所以给T枪械优势进行平衡。</p>
+<h3 id="战术平衡："><a href="#战术平衡：" class="headerlink" title="战术平衡："></a>战术平衡：</h3><p>  通常来说，CT可以优先布局战术，但是如同石头剪刀布一样，T可以后出，所以在战术上更加灵活，通过转火，吸引等方式可以造成局部资源优势。也是一种心理博弈，因为在爆破图中，去哪个点下包的主动权掌握在T手中。</p>
+<p>综上所述，CT拥有提前布局，占据枪位的优势，但是在设计上通过人数，枪械，战术甚至某些地图的设计，可以平衡双方的资源差距。</p>
+<p>May you be treated gently by the world,<br>Shengzhe Qin（秦圣喆）</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Cosplay记录</title>
+    <url>/2021/02/01/Cosplay%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p>本文记录2020年夏天初次接触Cosplay并cos火拳艾斯的经历<br>（多图慎入）<br><img src="/images/cosfengmian.jpeg"></p>
+<a id="more"></a>
+
+<h2 id="正片"><a href="#正片" class="headerlink" title="正片"></a>正片</h2><p><img src="/images/zhengpian1.jpeg"><br><img src="/images/zhengpian2.jpeg"><br><img src="/images/zhengpian3.jpeg"><br><img src="/images/zhengpian4.jpeg"><br><img src="/images/zhengpian5.jpeg"><br><img src="/images/zhengpian6.jpeg"></p>
+<h3 id="半次元新人榜第一"><a href="#半次元新人榜第一" class="headerlink" title="半次元新人榜第一"></a>半次元新人榜第一</h3><p><img src="/images/banciyuan.jpeg"></p>
+<h2 id="场照"><a href="#场照" class="headerlink" title="场照"></a>场照</h2><p><img src="/images/changzhao1.jpeg"><br><img src="/images/changzhao2.jpeg"><br><img src="/images/changzhao3.jpeg"><br><img src="/images/changzhao4.jpeg"><br><img src="/images/changzhao5.jpeg"><br><img src="/images/changzhao6.jpeg"><br><img src="/images/changzhao7.jpeg"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>游戏经历</title>
+    <url>/2021/02/01/%E6%B8%B8%E6%88%8F%E7%BB%8F%E5%8E%86/</url>
+    <content><![CDATA[<p>本文只用于记录一个热爱游戏的憨憨的游戏经历(๑•̀ㅂ•́)و✧<br>（多图慎入=。=）</p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=5247334&bvid=BV1Js411y7Zk&cid=8528172&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+
+<a id="more"></a>
+
+<p>本文所有内容仅代表本人在获得成绩那一刻的水平，<br>不代表如今竞技水平（说白了就是现在太菜了=。=）</p>
+<h2 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h2><h3 id="1月使命召唤手游QV双区战神"><a href="#1月使命召唤手游QV双区战神" class="headerlink" title="1月使命召唤手游QV双区战神"></a>1月使命召唤手游QV双区战神</h3><p><img src="/images/zhanshen1.jpeg"> <img src="/images/zhanshen2.jpeg"></p>
+<h2 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h2><h3 id="守望先锋北美Open-Devision小组第二-疫情停办"><a href="#守望先锋北美Open-Devision小组第二-疫情停办" class="headerlink" title="守望先锋北美Open Devision小组第二(疫情停办)"></a>守望先锋北美Open Devision小组第二(疫情停办)</h3><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=92589824&bvid=BV1VE411J77H&cid=158087828&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+
+<h3 id="7月任天堂明星大乱斗西安1up线下赛冠军"><a href="#7月任天堂明星大乱斗西安1up线下赛冠军" class="headerlink" title="7月任天堂明星大乱斗西安1up线下赛冠军"></a>7月任天堂明星大乱斗西安1up线下赛冠军</h3><p><img src="/images/1up.jpeg"></p>
+<h2 id="2018年"><a href="#2018年" class="headerlink" title="2018年"></a>2018年</h2><h3 id="6月绝地求生陕西绿树杯线下冠军"><a href="#6月绝地求生陕西绿树杯线下冠军" class="headerlink" title="6月绝地求生陕西绿树杯线下冠军"></a>6月绝地求生陕西绿树杯线下冠军</h3><p><img src="/images/lvshu.png"></p>
+<h3 id="3月一站到底迈阿密大学知识竞赛三等奖"><a href="#3月一站到底迈阿密大学知识竞赛三等奖" class="headerlink" title="3月一站到底迈阿密大学知识竞赛三等奖"></a>3月一站到底迈阿密大学知识竞赛三等奖</h3><p><img src="/images/yizhandaodi.jpeg"></p>
+<h3 id="1月王者荣耀最强王者，省级狄仁杰"><a href="#1月王者荣耀最强王者，省级狄仁杰" class="headerlink" title="1月王者荣耀最强王者，省级狄仁杰"></a>1月王者荣耀最强王者，省级狄仁杰</h3><p><img src="/images/wzry1.jpeg"></p>
+<h2 id="2017年"><a href="#2017年" class="headerlink" title="2017年"></a>2017年</h2><h3 id="10月绝地求生双排FPP亚服第一"><a href="#10月绝地求生双排FPP亚服第一" class="headerlink" title="10月绝地求生双排FPP亚服第一"></a>10月绝地求生双排FPP亚服第一</h3><p><img src="/images/pubg1.jpeg"></p>
+<h3 id="10月绝地求生四排TPP美服第八十"><a href="#10月绝地求生四排TPP美服第八十" class="headerlink" title="10月绝地求生四排TPP美服第八十"></a>10月绝地求生四排TPP美服第八十</h3><p><img src="/images/pubg2.jpeg"></p>
+<h3 id="剑网三四个赛季排名"><a href="#剑网三四个赛季排名" class="headerlink" title="剑网三四个赛季排名"></a>剑网三四个赛季排名</h3><p><img src="/images/jw3.jpeg"></p>
+<h2 id="2016年"><a href="#2016年" class="headerlink" title="2016年"></a>2016年</h2><h3 id="8月守望先锋国服天梯82分-五百强"><a href="#8月守望先锋国服天梯82分-五百强" class="headerlink" title="8月守望先锋国服天梯82分-五百强"></a>8月守望先锋国服天梯82分-五百强</h3><p><img src="/images/ow1.jpeg"><br>相关报道：<a href="http://ow.gamersky.com/201606/766108.shtml?tag=wap">http://ow.gamersky.com/201606/766108.shtml?tag=wap</a></p>
+<h3 id="6月使命召唤Online夏季城市赛全国四强"><a href="#6月使命召唤Online夏季城市赛全国四强" class="headerlink" title="6月使命召唤Online夏季城市赛全国四强"></a>6月使命召唤Online夏季城市赛全国四强</h3><p>相关报道：<a href="http://codol.gamersky.com/201606/764384.shtml?tag=wap">http://codol.gamersky.com/201606/764384.shtml?tag=wap</a></p>
+<h3 id="6月穿越火线手游第一次枪王段位"><a href="#6月穿越火线手游第一次枪王段位" class="headerlink" title="6月穿越火线手游第一次枪王段位"></a>6月穿越火线手游第一次枪王段位</h3><p><img src="/images/cfm.jpeg"></p>
+<h3 id="3月虎牙直播CSGO板块第一个大神推荐标签"><a href="#3月虎牙直播CSGO板块第一个大神推荐标签" class="headerlink" title="3月虎牙直播CSGO板块第一个大神推荐标签"></a>3月虎牙直播CSGO板块第一个大神推荐标签</h3><p><img src="/images/huya1.jpeg"></p>
+<h2 id="2015年"><a href="#2015年" class="headerlink" title="2015年"></a>2015年</h2><h3 id="11月星际争霸2国服宗师"><a href="#11月星际争霸2国服宗师" class="headerlink" title="11月星际争霸2国服宗师"></a>11月星际争霸2国服宗师</h3><p><img src="/images/xingji.jpeg"></p>
+<h3 id="10月炉石传说第一次天梯传说"><a href="#10月炉石传说第一次天梯传说" class="headerlink" title="10月炉石传说第一次天梯传说"></a>10月炉石传说第一次天梯传说</h3><p><img src="/images/lushi1.jpeg"></p>
+<h3 id="6月反恐精英Online2-EGL西安线下亚军"><a href="#6月反恐精英Online2-EGL西安线下亚军" class="headerlink" title="6月反恐精英Online2 EGL西安线下亚军"></a>6月反恐精英Online2 EGL西安线下亚军</h3><p><img src="/images/egl.jpeg"></p>
+<h3 id="5月使命召唤Online全国锦标赛西安线下赛冠军"><a href="#5月使命召唤Online全国锦标赛西安线下赛冠军" class="headerlink" title="5月使命召唤Online全国锦标赛西安线下赛冠军"></a>5月使命召唤Online全国锦标赛西安线下赛冠军</h3><p><img src="/images/codol1.jpeg"><br>相关报道：<a href="http://www.58game.com/special/2015/interview_tanke/index.html">http://www.58game.com/special/2015/interview_tanke/index.html</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World?</title>
+    <url>/2021/02/01/Hello-World-0/</url>
+    <content><![CDATA[<p>本文所有内容仅代表本人在本文发表那一时间点的主观看法，<br>想法如有雷同算我抄您，如有不同您说的对！</p>
+<p>#include &lt;stdio.h&gt;<br>int main()<br>{<br>   printf(“Hello, World!”);<br>   return 0;<br>}</p>
+<h2 id="为什么是Hello-World呢？"><a href="#为什么是Hello-World呢？" class="headerlink" title="为什么是Hello World呢？"></a>为什么是Hello World呢？</h2><h3 id="想到这个问题的原因"><a href="#想到这个问题的原因" class="headerlink" title="想到这个问题的原因"></a>想到这个问题的原因</h3><p>从我开始接触程序，无论是什么语言，第一个接触到的代码永远是Hello World！<br>所以我就在想，为什么是Hello World？<br>为什么不是日常中很常见的How are you？Hey！Wussup！等等？</p>
+<h3 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h3><p>于是，我去搜索了一些相关资料，发现这个短语第一次出现在书中，应该是在1972年由Brian Kernighan编写的《Introduction to the Language B》中<br>后来在1978年由Brian Kernighan和Dennis Ritchie编写的《The C Programme Language》使用而被广泛流行</p>
+<p>但是作为作者本人，在网上最广泛的说法是，他自己也记不清为什么选择『Hello, World!』，印象中是在一个卡通片中听到一个小鸡说了句『Hello, World!』于是就使用了它。</p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>其实任何一个伟大的事物诞生，都可能只是一个巧合，就像hello world，或许只是动画片里的一句话罢了<br>但是这个语句对于计算机语言的意义，不亚于罗布泊的那一朵蘑菇云或者1970年的那一首东方红</p>
+<p>仔细想想，这句话好像我们刚出生对这个世界打的招呼，代表了最纯粹，最简单的向往和探索<br>代表了一个生命的开始和初心，从这一步起，我们才有了探索无穷奥秘的开始</p>
+<p>May you be treated gently by the world,<br>Shengzhe Qin（秦圣喆）</p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=83594799&bvid=BV1NJ411n7Hm&cid=143007805&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+]]></content>
+  </entry>
+</search>
