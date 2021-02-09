@@ -6,7 +6,7 @@
   <link href="https://qin029cn.top/atom.xml" rel="self"/>
   
   <link href="https://qin029cn.top/"/>
-  <updated>2021-02-05T17:16:15.084Z</updated>
+  <updated>2021-02-09T02:44:29.396Z</updated>
   <id>https://qin029cn.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>读书笔记《游戏设计的艺术：一本透镜的书》</title>
+    <link href="https://qin029cn.top/2021/02/09/reading-note-1/"/>
+    <id>https://qin029cn.top/2021/02/09/reading-note-1/</id>
+    <published>2021-02-09T02:32:02.000Z</published>
+    <updated>2021-02-09T02:44:29.396Z</updated>
+    
+    
+    <summary type="html">读《游戏设计的艺术：一本透镜的书》随笔</summary>
+    
+    
+    
+    <category term="思考" scheme="https://qin029cn.top/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+    <category term="笔记" scheme="https://qin029cn.top/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>徒手肥宅的健身心得</title>
@@ -116,7 +135,7 @@
     <link href="https://qin029cn.top/2021/02/01/Hello-World-0/"/>
     <id>https://qin029cn.top/2021/02/01/Hello-World-0/</id>
     <published>2021-02-01T18:07:43.000Z</published>
-    <updated>2021-02-02T23:33:36.389Z</updated>
+    <updated>2021-02-09T00:09:36.575Z</updated>
     
     
     <summary type="html">为什么是Hello World呢？(内有小彩蛋)</summary>
