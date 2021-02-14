@@ -6,7 +6,7 @@
   <link href="https://qin029cn.top/atom.xml" rel="self"/>
   
   <link href="https://qin029cn.top/"/>
-  <updated>2021-02-10T13:44:03.033Z</updated>
+  <updated>2021-02-14T00:02:06.411Z</updated>
   <id>https://qin029cn.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>拆开分析吃鸡儿中学校的一草一木一桌一椅给你看</title>
+    <link href="https://qin029cn.top/2021/02/11/pubg/"/>
+    <id>https://qin029cn.top/2021/02/11/pubg/</id>
+    <published>2021-02-11T01:35:32.000Z</published>
+    <updated>2021-02-14T00:02:06.411Z</updated>
+    
+    
+    <summary type="html">深入拆解绝地岛上的学校/研究所</summary>
+    
+    
+    
+    <category term="思考" scheme="https://qin029cn.top/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+    <category term="随想" scheme="https://qin029cn.top/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>FPS游戏中复活点机制的设计</title>
     <link href="https://qin029cn.top/2021/02/10/codm/"/>
     <id>https://qin029cn.top/2021/02/10/codm/</id>
     <published>2021-02-10T00:49:58.000Z</published>
-    <updated>2021-02-10T13:44:03.033Z</updated>
+    <updated>2021-02-11T01:29:58.932Z</updated>
     
     
     <summary type="html">以COD举例，深入拆解分析地图设计中的复活点机制</summary>
